@@ -1,5 +1,7 @@
 # roam-css-system
 Roam CSS System fork
+**NOTE:** The changes made so far now live in the main repo, you can ignore this fork for now.
+
 
 ## What is it?
 The Roam CSS System is a powerful framework for customizing the look and feel of [Roam Research](https://roamresearch.com).
